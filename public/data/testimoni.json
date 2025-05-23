@@ -1,0 +1,27 @@
+[
+  {
+    "avatar": "/avatars/user1.png",
+    "nama": "Rich Brian",
+    "ulasan": "Makanan dari Sedap enak banget dan tetap sehat. Cocok buat diet!"
+  },
+  {
+    "avatar": "/avatars/user2.png",
+    "nama": "Rizky Pratama",
+    "ulasan": "Layanan cepat dan rasanya mantap. Anak saya suka banget!"
+  },
+  {
+    "avatar": "/avatars/user3.png",
+    "nama": "Bambang Pacul",
+    "ulasan": "Variasi menu banyak dan cocok untuk vegetarian juga!"
+  },
+  {
+    "avatar": "/avatars/user4.png",
+    "nama": "Agus Salim",
+    "ulasan": "Tampilan makanannya rapi, higienis, dan pengiriman cepat."
+  },
+  {
+    "avatar": "/avatars/user5.png",
+    "nama": "Melati Putri",
+    "ulasan": "Harga terjangkau dan kualitas luar biasa. Recommended!"
+  }
+]

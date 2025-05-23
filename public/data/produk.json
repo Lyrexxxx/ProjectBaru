@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Rendang",
+    "description": "Nikmati kelezatan otentik dari Padang yang kaya rempah.",
+    "price": "Rp38.900",
+    "image": "/img/rendang.png"
+  },
+  {
+    "id": 2,
+    "name": "Gado-gado",
+    "description": "Salad tradisional dengan saus kacang yang gurih dan segar.",
+    "price": "Rp24.500",
+    "image": "/img/gado.png"
+  },
+  {
+    "id": 3,
+    "name": "Cendol",
+    "description": "Minuman segar manis khas Jawa dengan santan dan gula merah.",
+    "price": "Rp17.900",
+    "image": "/img/cendol.png"
+  },
+  {
+    "id": 4,
+    "name": "Arsik",
+    "description": "Ikan khas Batak dengan bumbu pedas dan harum daun kemangi.",
+    "price": "Rp39.900",
+    "image": "/img/arsik.png"
+  },
+  {
+    "id": 5,
+    "name": "Arem-arem",
+    "description": "Lemper khas Jawa yang lezat dengan isian daging dan sayur.",
+    "price": "Rp24.500",
+    "image": "/img/arem.png"
+  },
+  {
+    "id": 6,
+    "name": "Tumpeng Mini",
+    "description": "Tumpeng mini dengan berbagai lauk tradisional yang lengkap.",
+    "price": "Rp149.900",
+    "image": "/img/tumpeng.png"
+  }
+]
