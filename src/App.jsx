@@ -1,7 +1,6 @@
 import React, { Suspense } from "react";
 import "./assets/tailwind.css";
 import { Route, Routes } from "react-router-dom";
-import Loading from "./components/Loading";
 
 
 const Dashboard2 = React.lazy(() => import("./pages/Dashboard2"));
